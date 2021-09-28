@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = learn_fastapi
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    learn_fastapi/__main__.py
